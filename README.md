@@ -3,6 +3,8 @@ This is my personal project to make Diamonds Price Prediction with supervised le
 
 Dataset source: https://www.kaggle.com/datasets/shivam2503/diamonds
 
+If the code cannot be seen / unable to render code block, you can see the preview through [this link.](https://nbviewer.org/github/devapratama/Diamonds-Price-Prediction/blob/master/Diamonds_Price_Prediction.ipynb)
+
 # How To Use The Notebook With Google Colab
 1. Open Google Colab. Go to https://colab.research.google.com/ and sign in with your Google account if necessary.
 2. Create a New Notebook. Click on "File" in the top-left corner of the Colab interface and select "New Notebook" to create a new notebook.
